@@ -1,0 +1,4 @@
+clear
+helo
+how are 
+you
